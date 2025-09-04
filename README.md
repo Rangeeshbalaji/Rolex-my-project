@@ -66,7 +66,8 @@ Microsoft Edge Browser
 
 Edge WebDriver (matching your browser version)
 
-## 📂 Source Code
+## 📂  Java Source Code
+
 ```java
 package project;
 
@@ -82,6 +83,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
+```java
 public class E2E {
     WebDriver driver;
     String usename = "Rolex27@gmail.com";
